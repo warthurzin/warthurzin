@@ -17,7 +17,7 @@ Atualmente, curso **Sistemas Para Internet** na [Universidade Católica de Perna
 
 ### ⚙️ **Ferramentas que Utilizo**
 
-[![Tools](https://skillicons.dev/icons?i=linux,git,figma,vscode,vercel)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,figma,vscode,vercel)](https://skillicons.dev)
 
 ### 🌐 **Vamos nos Conectar?**
 
