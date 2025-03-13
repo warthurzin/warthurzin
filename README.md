@@ -13,7 +13,7 @@ Atualmente, curso **Sistemas Para Internet** na [Universidade Católica de Perna
 
 ### 🛠️ **Tecnologias**
 
-[![Technologies](https://skillicons.dev/icons?i=ts,java,js](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
 
 ### ⚙️ **Ferramentas que Utilizo**
 
