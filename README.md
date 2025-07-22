@@ -7,17 +7,21 @@
 
 ### ⚡ **Sobre mim**  
 
-Olá! Eu sou **Arthur Silveira**, um **desenvolvedor full-stack**, entusiasta da tecnologia. Atuo com tecnologias modernas como **Javascript** e **Java**.  
+Olá! Eu sou **Arthur Silveira**, um **desenvolvedor full-stack**, entusiasta da tecnologia. Atuo com tecnologias modernas como **Javascript** e **Typescript**.  
 
-Atualmente, Estou no 2º Périodo do curso de **Sistemas Para Internet** na [Universidade Católica de Pernambuco](https://portal.unicap.br/). Sou movido pela curiosidade e adoro resolver problemas, compartilhar conhecimento e explorar novas tecnologias para criar soluções eficientes e escaláveis.
+Atualmente, Estou no 3º Périodo do curso de **Sistemas Para Internet** na [Universidade Católica de Pernambuco](https://portal.unicap.br/). Sou movido pela curiosidade e adoro resolver problemas, compartilhar conhecimento e explorar novas tecnologias para criar soluções eficientes e escaláveis.
 
 ### 🛠️ **Tecnologias**
 
-[![Technologies](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
+## Front-End
+[![Front-End](https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind)](https://skillicons.dev)
+
+## Banco de Dados
+[![Database](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 
 ### ⚙️ **Ferramentas que Utilizo**
 
-[![Tools](https://skillicons.dev/icons?i=git,figma,vscode,vercel)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,figma,vscode,vercel,vite)](https://skillicons.dev)
 
 ### 🌐 **Vamos nos Conectar?**
 
